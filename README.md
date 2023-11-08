@@ -1,9 +1,14 @@
 <h1 align="center">👋 Hello! I'm Marcus </h1>
 
-<img src="assets/watch.gif" alt="gif" style="left: 50%">
 
-### Languages and Tools
+<p align="center">
+ <img width="600" src="assets/watch.gif" />
+</p>
 
+____
+
+<h3 align="center"> Languages and Tools </h3>
+  
 ![Python](https://img.shields.io/badge/Python-0A0A15?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-0A0A15?style=for-the-badge&logo=CPlusPlus)
 ![C#](https://img.shields.io/badge/C%23-0A0A15?style=for-the-badge&logo=CSharp)
@@ -12,5 +17,8 @@
 ![HTML](https://img.shields.io/badge/HTML-0A0A15?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/CSS-0A0A15?style=for-the-badge&logo=css)
 
-### Folow me
+____
+
+<h3 align="center"> Folow me </h3>
+
 [![Telegram](https://img.shields.io/badge/Telegram-0A0A15?style=for-the-badge&logo=Telegram)](https://web.telegram.org/k/#@MarcusovP)
