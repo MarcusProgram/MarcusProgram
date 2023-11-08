@@ -17,7 +17,14 @@ ____
 ![HTML](https://img.shields.io/badge/HTML-0A0A15?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/CSS-0A0A15?style=for-the-badge&logo=css)
 ____
+ 
 
 <h3 align="center"> Folow me </h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-0A0A15?style=for-the-badge&logo=Telegram)](https://web.telegram.org/k/#@MarcusovP)
+____
+
+<h3 align="center"> My statistics </h3>
+ 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusProgram&show_icons=true&theme=transparent)](https://github.com/MarcusProgram/github-readme-stats)
