@@ -22,6 +22,8 @@ ____
 <h3 align="center"> Folow me </h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-0A0A15?style=for-the-badge&logo=Telegram)](https://web.telegram.org/k/#@MarcusovP)
+[![CodeWars](https://img.shields.io/badge/CodeWars-0A0A15?style=for-the-badge&logo=CodeWars)](https://www.codewars.com/users/MarcusProgram)
+
 ____
 
 <h3 align="center"> My statistics </h3>
