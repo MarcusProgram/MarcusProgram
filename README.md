@@ -27,7 +27,7 @@ ____
  
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcusProgram&show_icons=true&theme=transparent"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusProgram&show_icons=true&theme=transparent" />
+  <img align="center" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusProgram&show_icons=true&theme=transparent" />
 </p>
 
 ____
