@@ -1,4 +1,4 @@
-      ![Header](https://github.com/MarcusProgram/MarcusProgram/blob/main/assets/watch.gif)
+\b\b![Header](https://github.com/MarcusProgram/MarcusProgram/blob/main/assets/watch.gif)
 
 Header
 
