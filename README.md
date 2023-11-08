@@ -1,8 +1,6 @@
-![Header](https://github.com/MarcusProgram/MarcusProgram/blob/main/assets/watch.gif)
+<h1 align="center">👋 Hello! I'm Marcus </h1>
 
-## I'm a beginner programmer
-
-About Me
+<img src="assets/watch.gif" alt="gif" style="left: 50%">
 
 ### Languages and Tools
 
