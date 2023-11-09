@@ -16,7 +16,7 @@ ____
   <img align="center" src="https://img.shields.io/badge/C++-0A0A15?style=for-the-badge&logo=CPlusPlus"/>
   <img align="center" src="https://img.shields.io/badge/C%23-0A0A15?style=for-the-badge&logo=CSharp"/>
   <img align="center" src="https://img.shields.io/badge/Java%20Script-0A0A15?style=for-the-badge&logo=javascript"/>
-  <img align="center" src="https://img.shields.io/badge/HTML-0A0A15?style=for-the-badge&logo=html"/
+  <img align="center" src="https://img.shields.io/badge/HTML-0A0A15?style=for-the-badge&logo=html"/>
   <img align="center" src="https://img.shields.io/badge/CSS-0A0A15?style=for-the-badge&logo=css"/>
 </p>
 
