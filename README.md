@@ -25,7 +25,7 @@ ____
 <h3 align="center"> My statistics </h3>
  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DED_M&show_icons=true&theme=transparent"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcusProgram&show_icons=true&theme=transparent"/>
 </p>
 
 ____
@@ -33,7 +33,7 @@ ____
 <h3 align="center"> Code Wars Stat </h3>
 
 <p align="center">
-  <img align="center" src="https://www.codewars.com/users/Marcusov/badges/large"/>
+  <img align="center" src="https://www.codewars.com/users/DED_M/badges/large"/>
 </p>
 
 ____
