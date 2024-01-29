@@ -41,5 +41,7 @@ ____
 
 <h3 align="center"> Folow me </h3>
 
+<p align="center">
+  <a href="https://marcusprogram.github.io/mySite/"><img align="center" src="https://img.shields.io/badge/My%20Site%20:)-8A2BE2"/></a>
+</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-0A0A15?style=for-the-badge&logo=Telegram)](https://web.telegram.org/k/#@MarcusovP)
