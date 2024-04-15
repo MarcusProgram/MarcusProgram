@@ -1,5 +1,5 @@
-                                                  
-<h1 align="center">рџ‘‹ Hello! I'm Marcus </h1>
+
+<h1 align="center">👋 Hello! I'm Marcus </h1>
 
 <p align="center">
  <img width="600" src="assets/watch.gif" />
@@ -23,7 +23,7 @@ ____
 
 
 <h3 align="center"> My statistics </h3>
- 
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcusProgram&show_icons=true&theme=transparent"/>
 </p>
@@ -33,7 +33,7 @@ ____
 <h3 align="center"> Code Wars Stat </h3>
 
 <p align="center">
-  <img align="center" src="https://www.codewars.com/users/Marcusov/badges/large"/>
+  <img align="center" src="https://www.codewars.com/users/rica/badges/large"/>
 </p>
 
 ____
@@ -41,7 +41,6 @@ ____
 
 <h3 align="center"> Folow me </h3>
 
-
-[![Telegram](https://img.shields.io/badge/Telegram-0A0A15?style=for-the-badge&logo=Telegram)](https://web.telegram.org/k/#@MarcusovP)
-[![CodeWars](https://img.shields.io/badge/CodeWars-0A0A15?style=for-the-badge&logo=CodeWars)](https://www.codewars.com/users/Marcusov)
- 
+<p align="center">
+  <a href="https://marcusprogram.github.io/mySite/"><img align="center" src="https://img.shields.io/badge/My%20Site%20:)-0A0A15"/></a>
+</p>
