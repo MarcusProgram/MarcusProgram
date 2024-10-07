@@ -3,11 +3,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Someday,+I'm+definitely+gonna+be+a+hacker." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=I'm+definitely+gonna+be+a+hacker." alt="Typing SVG" />
   </a>
 </div>
-<!--
-<h3 align="center">Someday, I'm definitely gonna be a hacker....<p align="right"></h3> -->
 
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
